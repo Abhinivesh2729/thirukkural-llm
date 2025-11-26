@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+venv/
+.env
+.env.*
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.h5
+
+# Logs
+*.log
+
+# Other
+*.sqlite3
+*.db
+*.mypy_cache/
+*.pytest_cache/
+*.coverage
+coverage.xml
+htmlcov/

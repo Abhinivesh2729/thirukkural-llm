@@ -1,0 +1,12 @@
+# Core Dependencies
+fastapi
+pydantic
+uvicorn
+
+# ML/AI Dependencies
+torch
+transformers
+accelerate
+
+# Optional but recommended
+safetensors
